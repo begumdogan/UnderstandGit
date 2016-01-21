@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+this is local edited one for merge conflict
+
+=======
+
+This is used to be an empty file
+
+
+edited this file as master on git itself
+
+>>>>>>> b5ace5fec774278b107ec0d93f89af27731ade07
